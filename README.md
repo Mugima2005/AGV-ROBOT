@@ -32,15 +32,7 @@ switch	1
 NMC 18650 LI-ION Battery-12v	1
 	
 
-FLOWCHART:
 
-
- 
-
-ARCHITECTURE:
-
- 
-CIRCUIT DIAGRAM:
 
  
 
